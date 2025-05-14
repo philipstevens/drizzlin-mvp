@@ -16,7 +16,7 @@ section.main > div {padding-top: 2rem;}
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Global Market Expansion Platform")
+st.title("CGG Market Expansion Platform")
 
 # --- Try to load OpenAI API ---
 try:
